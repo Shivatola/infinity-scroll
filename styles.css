@@ -5,7 +5,7 @@ html{ box-sizing: border-box;}
 body{ 
     margin:0;
     font-family:Roboto, sans-serif;
-    background: whitesmoke;
+    background: rgb(211, 160, 160);
 }
 
 h1{
